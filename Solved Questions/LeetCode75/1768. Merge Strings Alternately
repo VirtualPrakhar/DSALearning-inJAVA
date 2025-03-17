@@ -1,5 +1,9 @@
-//1768. Merge Strings Alternately
-//Link:https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
+1768. Merge Strings Alternately
+
+Problem:https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
+
+Solution:
+
 
 //Method 1: Efficient Iterative Solution (Using StringBuilder)
 
